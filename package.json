@@ -1,0 +1,1 @@
+{"name":"yaroslav-saukh-portfolio","private":true,"version":"1.0.0","description":"Static portfolio site and interactive concept demos for Yaroslav Saukh","scripts":{"dev":"python3 -m http.server 5173","start":"python3 -m http.server 5173"},"license":"UNLICENSED"}
